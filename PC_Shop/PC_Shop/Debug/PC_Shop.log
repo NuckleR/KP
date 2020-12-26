@@ -1,0 +1,47 @@
+﻿  AdminPanel.cpp
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\AdminPanel.h(1791,18): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\AdminPanel.h(1809,10): warning C4101: compare: неиспользованная локальная переменная
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\AdminPanel.cpp(255,25): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\AdminPanel.cpp(220,10): warning C4101: IdProd: неиспользованная локальная переменная
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\AdminPanel.cpp(315,15): warning C4018: >: несоответствие типов со знаком и без знака
+  Autorization.cpp
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\AdminPanel.h(1791,18): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\AdminPanel.h(1809,10): warning C4101: compare: неиспользованная локальная переменная
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\Main menu.h(1672,18): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\Main menu.h(1690,10): warning C4101: compare: неиспользованная локальная переменная
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\Autorization.cpp(8,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Basket.cpp
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\Basket.cpp(34,23): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\Basket.cpp(8,6): warning C4101: amn: неиспользованная локальная переменная
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\Basket.cpp(126,30): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\Basket.cpp(149,24): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\Basket.cpp(207,24): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\Basket.cpp(180,10): warning C4101: IdProd: неиспользованная локальная переменная
+  CircuitInfo.cpp
+  Main menu.cpp
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\AdminPanel.h(1791,18): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\AdminPanel.h(1809,10): warning C4101: compare: неиспользованная локальная переменная
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\Main menu.h(1672,18): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\Main menu.h(1690,10): warning C4101: compare: неиспользованная локальная переменная
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\Main menu.cpp(86,30): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  Users.cpp
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\Users.cpp(120,15): warning C4018: >: несоответствие типов со знаком и без знака
+  Создание кода...
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\AdminPanel.h(1763): warning C4715: PCShop::AdminPanel::check_type: значение возвращается не при всех путях выполнения
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\AdminPanel.h(1773): warning C4715: PCShop::AdminPanel::check_producer: значение возвращается не при всех путях выполнения
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\AdminPanel.h(1777): warning C4715: PCShop::AdminPanel::check_producer_c: значение возвращается не при всех путях выполнения
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\Main menu.h(1644): warning C4715: PCShop::Mainmenu::check_type: значение возвращается не при всех путях выполнения
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\Main menu.h(1654): warning C4715: PCShop::Mainmenu::check_producer: значение возвращается не при всех путях выполнения
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\Main menu.h(1658): warning C4715: PCShop::Mainmenu::check_producer_c: значение возвращается не при всех путях выполнения
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\Basket.cpp(147): warning C4700: использована неинициализированная локальная переменная "price"
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\AdminPanel.h(1763): warning C4715: PCShop::AdminPanel::check_type: значение возвращается не при всех путях выполнения
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\AdminPanel.h(1773): warning C4715: PCShop::AdminPanel::check_producer: значение возвращается не при всех путях выполнения
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\AdminPanel.h(1777): warning C4715: PCShop::AdminPanel::check_producer_c: значение возвращается не при всех путях выполнения
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\Main menu.h(1644): warning C4715: PCShop::Mainmenu::check_type: значение возвращается не при всех путях выполнения
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\Main menu.h(1654): warning C4715: PCShop::Mainmenu::check_producer: значение возвращается не при всех путях выполнения
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\Main menu.h(1658): warning C4715: PCShop::Mainmenu::check_producer_c: значение возвращается не при всех путях выполнения
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\AdminPanel.h(1763): warning C4715: PCShop::AdminPanel::check_type: значение возвращается не при всех путях выполнения
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\AdminPanel.h(1773): warning C4715: PCShop::AdminPanel::check_producer: значение возвращается не при всех путях выполнения
+D:\Курсовой\WindowsForms\PC_Shop\PC_Shop\AdminPanel.h(1777): warning C4715: PCShop::AdminPanel::check_producer_c: значение возвращается не при всех путях выполнения
+  AdminPanel.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  PC_Shop.vcxproj -> D:\Курсовой\WindowsForms\PC_Shop\Debug\PC_Shop.exe

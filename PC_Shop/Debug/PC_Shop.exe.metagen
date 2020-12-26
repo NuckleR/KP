@@ -1,0 +1,99 @@
+  PCShop.AdminPanel.resources - Embedded, ContainedInManifestFile, 
+  PCShop.Autorization.resources - Embedded, ContainedInManifestFile, 
+  PCShop.Basket.resources - Embedded, ContainedInManifestFile, 
+  PCShop.ChgPass.resources - Embedded, ContainedInManifestFile, 
+  PCShop.CircuitInfo.resources - Embedded, ContainedInManifestFile, 
+  PCShop.Main menu.resources - Embedded, ContainedInManifestFile, 
+  PCShop.Registration.resources - Embedded, ContainedInManifestFile, 
+  PCShop.UserInfo.resources - Embedded, ContainedInManifestFile, 
+  PCShop.Users.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly PC_Shop, Version=0.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualBasic.Compatibility, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly Microsoft.VisualBasic, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class PCShop.UserInfo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String ULog : Public
+    System.String UPassword : Public
+    System.String UEmail : Public
+    System.String UId : Public
+Class PCShop.CircuitInfo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String ID : Public
+    System.String Admin : Public
+    System.String Add : Public
+Class PCShop.AdminPanel: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    PCShop.UserInfo Us : Public
+    PCShop.CircuitInfo Ci : Public
+    System.String ULog : Public
+    System.String UPassword : Public
+    System.String UEmail : Public
+    System.String UId : Public
+Class PCShop.Registration: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class PCShop.Basket: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String ULog : Public
+    System.String UPassword : Public
+    System.String UEmail : Public
+    System.String UId : Public
+    PCShop.CircuitInfo Ci : Public
+Class PCShop.Users: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class PCShop.ChgPass: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String ULog : Public
+    System.String UPassword : Public
+    System.String UEmail : Public
+    System.String UId : Public
+Class PCShop.Mainmenu: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String ULog : Public
+    System.String UPassword : Public
+    System.String UEmail : Public
+    System.String UId : Public
+    System.Windows.Forms.DataGridView dataGridView1 : Public
+Class PCShop.Autorization: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String ULog : Public
+    System.String UPassword : Public
+    System.String UEmail : Public
+    System.String UId : Public
